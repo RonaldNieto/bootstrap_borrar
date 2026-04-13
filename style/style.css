@@ -1,0 +1,8 @@
+ body {
+        background-color: red; /* Fondo rojo en toda la página */
+      }
+
+.container {
+    background-color: #faf0fa; /* Fondo rosa claro para el container */
+    text-align: justify; /* Justificar el texto dentro del container */
+}
